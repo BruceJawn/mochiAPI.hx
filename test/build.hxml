@@ -1,0 +1,6 @@
+
+-cp ..
+-swf9 test.swf
+-swf-lib ../mochi.swf
+-main TestMochiAPI
+-D network-sandbox
