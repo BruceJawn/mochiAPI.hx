@@ -1,9 +1,15 @@
 
 MOCHIAPI.HX
 ===========
-Mochi API usage from haXe/flash.
+Extern haXe classes for the mochi API.
 See mochiAPI.hx/test for an usage example.
+
 
 VERSION
 -------
 v3.9.2
+
+
+LINKS
+-----
+https://www.mochimedia.com/
